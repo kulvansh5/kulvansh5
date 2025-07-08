@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kulvansh5
-- 👀 I’m interested in hardcore coding
-- 🌱 I’m currently c++
-- 💞️ I’m looking to collaborate on  coding Events
-- 📫 How to reach me on kulvanshrajput@gmail.com
+-### 👋 Hi, I’m @kulvansh5
 
-<!---
-kulvansh5/kulvansh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in hardcore coding and building real-world automation systems  
+- 🧠 I’m currently skilled in:
+  - ⚙️ C++, Python, Java
+  - 🌐 HTML, CSS, JavaScript
+  - 🖥️ MERN Stack (MongoDB, Express, React, Node.js)
+  - 🤖 AI Automation (n8n, OpenAI, LangChain)
+  - 🗄️ Databases: MongoDB, MySQL
+- 🚀 I love working with AI Agents, APIs, and automating complex workflows
+- 💞️ I’m looking to collaborate on coding events, hackathons, and AI projects
+- 📫 Reach me at [kulvanshrajput@gmail.com](mailto:kulvanshrajput@gmail.com)
+
+---
+
+> 💡 *“Code is the closest thing we have to magic.”*
