@@ -16,7 +16,7 @@ A system builder with hands-on expertise in developing AI automation agents, ful
 
 ## 🤖 AI Automation Systems
 
-AI-driven workflows and agents are maintained in the [`AI_Automation`](https://github.com/kulvansh5/AI_Automation) repository. These include modular systems for:
+AI-driven workflows and agents are maintained in the [`AI_Automation`](https://github.com/kulvansh5/Ai-Automation) repository. These include modular systems for:
 
 - Resume parsing and evaluation  
 - HR automation and Telegram-based assistants  
